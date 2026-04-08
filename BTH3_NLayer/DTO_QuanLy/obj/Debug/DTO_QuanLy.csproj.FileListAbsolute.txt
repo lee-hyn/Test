@@ -1,0 +1,11 @@
+D:\BTH3_NLayer\DTO_QuanLy\bin\Debug\DTO_QuanLy.dll
+D:\BTH3_NLayer\DTO_QuanLy\bin\Debug\DTO_QuanLy.pdb
+D:\BTH3_NLayer\DTO_QuanLy\obj\Debug\DTO_QuanLy.csprojResolveAssemblyReference.cache
+D:\BTH3_NLayer\DTO_QuanLy\obj\Debug\DTO_QuanLy.dll
+D:\BTH3_NLayer\DTO_QuanLy\obj\Debug\DTO_QuanLy.pdb
+C:\Users\LEEHYN\Downloads\BTH3_NLayer\DTO_QuanLy\bin\Debug\DTO_QuanLy.dll
+C:\Users\LEEHYN\Downloads\BTH3_NLayer\DTO_QuanLy\bin\Debug\DTO_QuanLy.pdb
+C:\Users\LEEHYN\Downloads\BTH3_NLayer\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.AssemblyReference.cache
+C:\Users\LEEHYN\Downloads\BTH3_NLayer\DTO_QuanLy\obj\Debug\DTO_QuanLy.csproj.CoreCompileInputs.cache
+C:\Users\LEEHYN\Downloads\BTH3_NLayer\DTO_QuanLy\obj\Debug\DTO_QuanLy.dll
+C:\Users\LEEHYN\Downloads\BTH3_NLayer\DTO_QuanLy\obj\Debug\DTO_QuanLy.pdb
