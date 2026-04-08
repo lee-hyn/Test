@@ -1,0 +1,15 @@
+D:\BTH3_NLayer\BTH3_NLayer\bin\Debug\BTH3_NLayer.exe.config
+D:\BTH3_NLayer\BTH3_NLayer\bin\Debug\BTH3_NLayer.exe
+D:\BTH3_NLayer\BTH3_NLayer\bin\Debug\BTH3_NLayer.pdb
+D:\BTH3_NLayer\BTH3_NLayer\bin\Debug\BUS_QuanLy.dll
+D:\BTH3_NLayer\BTH3_NLayer\bin\Debug\DTO_QuanLy.dll
+D:\BTH3_NLayer\BTH3_NLayer\bin\Debug\BUS_QuanLy.pdb
+D:\BTH3_NLayer\BTH3_NLayer\bin\Debug\DTO_QuanLy.pdb
+D:\BTH3_NLayer\BTH3_NLayer\obj\Debug\GUI_QuanLy.csprojResolveAssemblyReference.cache
+D:\BTH3_NLayer\BTH3_NLayer\obj\Debug\BTH3_NLayer.Properties.Resources.resources
+D:\BTH3_NLayer\BTH3_NLayer\obj\Debug\GUI_QuanLy.csproj.GenerateResource.Cache
+D:\BTH3_NLayer\BTH3_NLayer\obj\Debug\BTH3_NLayer.exe
+D:\BTH3_NLayer\BTH3_NLayer\obj\Debug\BTH3_NLayer.pdb
+D:\BTH3_NLayer\BTH3_NLayer\bin\Debug\DAL_QuanLy.dll
+D:\BTH3_NLayer\BTH3_NLayer\bin\Debug\DAL_QuanLy.pdb
+D:\BTH3_NLayer\BTH3_NLayer\obj\Debug\BTH3_NLayer.GUI_SinhVien.resources
